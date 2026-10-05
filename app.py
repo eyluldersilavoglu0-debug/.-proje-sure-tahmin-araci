@@ -199,7 +199,7 @@ if st.button("💰 Süreyi Tahmin Et", type="primary", use_container_width=True)
             <div class="value">{{tahmin:.1f} ay} TL</div>
             <div class="label">Tahmini İnşaat Süresi  — GÜVENİLİR DEĞİL</div>
         </div>
-        """, unsafe_allow_html=True)
+        """,(unsafe_allow_html=True)
         st.markdown(
             '<div class="warn-box"><b>⚠️ Ekstrapolasyon uyarısı:</b> ' +
             " ".join(uyarilar) +

@@ -3,6 +3,7 @@
 İnşaat Proje Süresi Tahmin Aracı
 Lineer regresyon modelleri ile inşaat süresi (gün ve ay) tahmin sistemi.
 Eksik dosya korumalı, tip güvenli ve kullanıcı dostu arayüz.
+Eylül Dersilavoğlu-2023232037
 """
 
 import json

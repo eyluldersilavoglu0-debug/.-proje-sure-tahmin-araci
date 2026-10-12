@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#-*- coding: utf-8 -*-
 """
 İnşaat Proje Süresi Tahmin Aracı
 Lineer regresyon modelleri ile inşaat süresi (gün ve ay) tahmin sistemi.

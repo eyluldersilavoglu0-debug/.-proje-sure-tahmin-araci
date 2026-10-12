@@ -80,7 +80,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>⏱️ İnşaat Proje Süresi Tahmin Aracı</h1>
-    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Karar Destek ve Süre Planlama Sistemi</p>
+    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Karar Destek ve Süre Planlama Sistemi-Eylül Dersilavoğlu-2023232037</p>
 </div>
 """, unsafe_allow_html=True)
 
